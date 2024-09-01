@@ -1,11 +1,11 @@
 <div align="center">
-  <h2 align="center">TRAVEL - E-Website</h2>
+  <h2 align="center">Travel Company Website</h2>
 
-  TRAVEL is a fully responsive e-website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  This is a travel company website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a ><strong>➥ Live Project</strong></a>
+  <a href="https://sport-travel.netlify.app/"><strong>➥ Live Project</strong></a>
 </div>
 <br />
 ### Demo Screeshots
 
-![TRAVELDesktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Bookish Desktop Demo](./preview.png "Desktop Demo")
