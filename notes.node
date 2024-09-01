@@ -1,0 +1,82 @@
+To enjoy experiences over things
+Inspiration
+Touring with Trafalgar
+To appreciate different cultures
+Vacation Tour Packages
+ Tour Package
+ Mystical Kashmir
+ Amazing Kashmir
+
+
+
+
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+ body{
+    width: 100%;
+    /* background-color: black; */
+}
+.logo{
+    width: 100%;
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    position: fixed;
+    height: 70px;
+    background-color: black;
+
+}
+.logo-1{
+    color: #fff;
+}
+.logo ul{
+    display: flex;
+    gap :30px;
+}
+.logo li {
+    list-style-type: none;
+}
+.logo a{
+    text-decoration: none;
+    color: #fff;
+}
+.menu-icon{
+    color: #fff;
+    font-size: 30px;
+    display: none;
+}
+
+
+@media (max-width:600px) {
+   
+    .ul{
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        text-align: center;
+        background-color: rgb(179, 178, 178);
+        gap: 0;
+        overflow: hidden;
+    }
+    .ul{
+        transition: all;
+    }
+    .logo li{
+        padding: 20px;
+        align-items: center;
+
+    }
+    .menu-icon{
+        display: block;
+    }
+    
+}
